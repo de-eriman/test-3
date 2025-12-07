@@ -4,8 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AITTR.iml" filepath="$PROJECT_DIR$/AITTR.iml" />
       <module fileurl="file://$PROJECT_DIR$/CW_01/CW_01.iml" filepath="$PROJECT_DIR$/CW_01/CW_01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CW_02/CW_02.iml" filepath="$PROJECT_DIR$/CW_02/CW_02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CW_02/CW_03/CW_03.iml" filepath="$PROJECT_DIR$/CW_02/CW_03/CW_03.iml" />
       <module fileurl="file://$PROJECT_DIR$/CW_05/CW_05.iml" filepath="$PROJECT_DIR$/CW_05/CW_05.iml" />
     </modules>
   </component>
